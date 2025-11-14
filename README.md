@@ -48,6 +48,7 @@
 ### 🚀 Main projects
 
 [![Project-R](https://github-readme-stats.vercel.app/api/pin/?username=Enoxboo&repo=Project-R&theme=cobalt)](https://github.com/Enoxboo/Project-R)
+[![Sprout-Island](https://github-readme-stats.vercel.app/api/pin/?username=Enoxboo&repo=Sprout-Island&theme=cobalt)](https://github.com/Enoxboo/Sprout-Island)
 
 ---
 
