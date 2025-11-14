@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=DD58C1&center=true&width=800&lines=Game+Developer+%7C+Student;Godot+enjoyer;Turning+ideas+into+playable+experiences)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=C577C2&center=true&vCenter=true&width=800&lines=Game+Developer+%7C+Student;Godot+enjoyer;Turning+ideas+into+playable+experiences;TBATE+Fan)](https://git.io/typing-svg)
 # Hi, I'm Enoxboo
 ## French IT student and game lover
 
@@ -9,11 +8,12 @@
 - 🌱 Learning GDScript and Python
 - 🌍 Based in Toulouse, France
 - 💼 Currently a student looking for an internship/work-study program
+- ⚡ Fun fact: Big fan of The Beginning After the End by Turtleme
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enoxboo&show_icons=true&theme=jolly&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enoxboo&layout=compact&theme=jolly&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enoxboo&show_icons=true&theme=cobalt&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enoxboo&layout=compact&theme=cobalt&hide_border=true&langs_count=8)
 
 </div>
 
@@ -47,7 +47,7 @@
 
 ### 🚀 Main projects
 
-[![Project-R](https://github-readme-stats.vercel.app/api/pin/?username=Enoxboo&repo=Project-R&theme=jolly)](https://github.com/Enoxboo/Project-R)
+[![Project-R](https://github-readme-stats.vercel.app/api/pin/?username=Enoxboo&repo=Project-R&theme=cobalt)](https://github.com/Enoxboo/Project-R)
 
 ---
 
