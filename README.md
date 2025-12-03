@@ -13,6 +13,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enoxboo&show_icons=true&theme=cobalt&hide_border=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enoxboo&layout=compact&theme=cobalt&hide_border=true&langs_count=8)
 
 </div>
@@ -48,6 +49,7 @@
 ### 🚀 Main projects
 
 [![Project-R](https://github-readme-stats.vercel.app/api/pin/?username=Enoxboo&repo=Project-R&theme=cobalt)](https://github.com/Enoxboo/Project-R)
+
 [![Sprout-Island](https://github-readme-stats.vercel.app/api/pin/?username=Enoxboo&repo=Sprout-Island&theme=cobalt)](https://github.com/Enoxboo/Sprout-Island)
 
 ---
